@@ -2,7 +2,10 @@
 using Paperless-ngx API calls to transfer information to prometheus using a python script inside a docker container
 
 # How to start?
-make a new dir in your linux machine, paste the Dockerfile and exporter.py into the directory. Run the following commands:
+- change the exporter.py file (API-Key and paperless-ngx URL)
+- make a new dir in your linux machine
+- paste the Dockerfile and exporter.py into the directory.
+- Run the following commands:
 
 ## Build
 ```
