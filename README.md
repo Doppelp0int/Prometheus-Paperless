@@ -2,7 +2,7 @@
 using Papperless-ngx API calls to transfer information to prometheus using a python script inside a docker container
 
 # Why?
-becouse we can.
+because we can.
 Using a API call from Paperless-ngx, to transfer the information into  Prometheus, so you can import you Paperless Information into Grafana Dashboard.
 
 # Paperless-ngx API
